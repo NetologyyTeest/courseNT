@@ -1,4 +1,4 @@
-/.idea/
-/ydtoken/
-/venv/
-/*.jpg/
+.idea
+ydtoken
+venv
+*.jpg
